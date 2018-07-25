@@ -8,15 +8,15 @@ STUDENT_NAMES = [
 ]
 
 def first_student_by_index
-puts STUDENT_NAMES.['0'] 
+puts STUDENT_NAMES.['0'].
 end
 
 def fourth_student_by_index
-  puts STUDENT_NAMES.['3']
+  puts STUDENT_NAMES.['3'].
 end
 
 def last_student_by_index
-  puts STUDENT_NAMES.['5']
+  puts STUDENT_NAMES.['5'].
 end
 
 def first_student_by_method
@@ -28,5 +28,5 @@ def last_student_by_method
 end
 
 def first_second_and_third_students
-  puts STUDENT_NAMES.['0','1','2']
+  puts STUDENT_NAMES.['0','1','2'].
 end
